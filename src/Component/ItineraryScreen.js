@@ -827,7 +827,6 @@ const ItineraryScreen = () => {
               borderRadius: "4px",
               backgroundColor: status1 ? "#9ca3af" : "#3b82f6",
               color: "white",
-              cursor: "pointer",
               fontSize: "14px",
               cursor: status1 ? "not-allowed" : "pointer",
             }}
